@@ -21,10 +21,11 @@
 
 - ⚡ Fun fact **I always do this projects at 4am in the Morning**
 
-- ❓ Help me with **Javascript**
-
 - 🚹 contact me on Telegram [https://t.me/leouladera](https://t.me/leouladera)
 
+- ✅ finished projects **working on color flipper**
+
+- 📅 date started on **April 6, 2023**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
