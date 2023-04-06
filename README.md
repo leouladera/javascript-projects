@@ -23,7 +23,9 @@
 
 - ❓ Help me with **Javascript**
 
-- 🚹 contact me on **Telegram** [https://t.me/leouladera] (https://t.me/leouladera)
+- 🚹 contact me on Telegram [https://t.me/leouladera](https://t.me/leouladera)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
