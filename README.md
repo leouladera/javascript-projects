@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **I always do this projects at 4am in the Morning**
 
+- ❓ Help me with **Javascript**
+
+- 🚹 contact me on **Telegram** [https://t.me/leouladera]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
