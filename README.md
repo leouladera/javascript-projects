@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on JavaScript **color flipper**
+- 🔭 I’m currently working on JavaScript **'reviews project'**
 
 - 🌱 I’m currently practicing **Javascript**
 
@@ -21,9 +21,9 @@
 
 - ⚡ Fun fact **I always do this projects at 4am in the Morning**
 
-- 🚹 contact me on Telegram [https://t.me/leouladera](https://t.me/leouladera)
+- 🧑‍💻 contact me on Telegram [https://t.me/leouladera](https://t.me/leouladera)
 
-- ✅ finished projects: <br> **01-color flipper✔️ <br> 02-counter✔️**
+- ✅ finished projects: <br> **01-color flipper✔️ <br> 02-counter✔️** <br> **03-Reviews⏳**
 
 - 📅 date started on **April 6, 2023**
 
@@ -40,7 +40,10 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leouladera&show_icons=true&locale=en" alt="leouladera" /></p>
+
+
 
 
