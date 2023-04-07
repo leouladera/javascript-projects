@@ -23,7 +23,7 @@
 
 - 🚹 contact me on Telegram [https://t.me/leouladera](https://t.me/leouladera)
 
-- ✅ finished projects: <br> **01-color flipper <br>⏳working on counter**
+- ✅ finished projects: <br> **01-color flipper✔️ <br> 02-counter✔️**
 
 - 📅 date started on **April 6, 2023**
 
