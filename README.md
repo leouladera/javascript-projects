@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, this is JavaScript projects</h1>
 <h3 align="center">This is JavaScript projects</h3>
+<img align="center" src="https://img.shields.io/github/directory-file-count/leouladera/javascript-projects?style=for-the-badge" /> <img  src="https://img.shields.io/github/repo-size/leouladera/javascript-projects?style=for-the-badge" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leouladera&label=Profile%20views&color=0e75b6&style=flat" alt="leouladera" /> </p>
 
