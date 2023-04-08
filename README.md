@@ -23,8 +23,14 @@
 
 - 🧑‍💻 contact me on Telegram [https://t.me/leouladera](https://t.me/leouladera)
 
-- ✅ finished projects: <br> **01-color flipper✔️ <br> 02-counter✔️** <br> **03-Reviews⏳**
 
+<details>
+
+<summary> ✅ finished projects:</summary>
+
+ <br> **01-color flipper✔️ <br> 02-counter✔️** <br>  ``03-Reviews⏳``
+
+</details>
 - 📅 date started on **April 6, 2023**
 
 <h3 align="left">Connect with me:</h3>
