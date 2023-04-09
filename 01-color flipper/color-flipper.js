@@ -14,6 +14,7 @@ const colors = [
   "light blue",
   "gray",
   "brown",
+  "sky blue",
 ];
 const btn = document.getElementById("btn");
 const reset = document.getElementById("reset");
