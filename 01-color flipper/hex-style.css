@@ -235,7 +235,7 @@ main {
 .rst {
   font-family: var(--ff-primary);
   text-transform: uppercase;
-  background: rgb(255, 0, 0);
+  background: rgb(255, 90, 90);
   color: var(--clr-black);
   letter-spacing: var(--spacing);
   display: inline-block;
