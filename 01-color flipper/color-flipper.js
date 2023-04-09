@@ -11,6 +11,8 @@ const colors = [
   "orange",
   "purple",
   "pink",
+  "light blue",
+  "gray",
 ];
 const btn = document.getElementById("btn");
 const reset = document.getElementById("reset");
