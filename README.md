@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on JavaScript **'reviews project'**
+- 🔭 I’m currently working on JavaScript **'Navbar project'**
 
 - 🌱 I’m currently practicing **Javascript**
 
@@ -29,7 +29,7 @@
 
 <summary> ✅ finished projects:</summary>
 
- <br> **01-color flipper✔️ <br> 02-counter✔️** <br>  ``03-Reviews⏳``
+ <br> **01-color flipper✔️ <br> 02-counter✔️** <br>  **03-Reviews✔️** <br> ``04-NavBar⏳``
 
 </details>
 - 📅 date started on **April 6, 2023**
