@@ -29,7 +29,7 @@
 
 <summary> ✅ finished projects:</summary>
 
- <br> **01-color flipper✔️ <br> 02-counter✔️** <br>  **03-Reviews✔️** <br> **04-NavBar✔️** <br> ``05-side bar⏳``
+ <br> **01-color flipper✔️ <br> 02-counter✔️** <br>  **03-Reviews✔️** <br> **04-NavBar✔️** <br> **05-side bar✔️** <br> ``06-Modal⏳``
 
 </details>
 - 📅 date started on **April 6, 2023**
